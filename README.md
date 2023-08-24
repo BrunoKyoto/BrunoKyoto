@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo(a) ao meu perfil do GitHub! 👋
-## Meu nome é Bruno Kyoto, sou apaixonado por desafios e também adoro resolver problemas e enigmas!
+## Meu nome é Bruno Kyoto e sou um desenvolvedor em formação!
 
 ### - 🔭 Atualmente estou trabalhando em
   - Alguns projetos pessoais, como por exemplo, a implementação de um algoritmo de leitura de I Ching (oráculo taoista) em Python.
@@ -16,6 +16,10 @@
 
 
 ### - 😄 Pronomes: Ele/Dele
+
+
+### - ⚡ Curiosidade:
+  - Sou apaixonado por desafios e também adoro resolver problemas e enigmas!
 
 <!--
 **BrunoKyoto/BrunoKyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
